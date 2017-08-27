@@ -14,7 +14,7 @@ the result text will be shown with red color.
 * Follow the following path to get credential.json 
   API & Services -> credential -> Create credential -> Service account key then download your credential.json from there.
 
-![Screen Shot](https://github.com/sujitpanda/Google-Cloud-Speech-API/blob/master/Screenshot.png)
+<img src="https://github.com/sujitpanda/Google-Cloud-Speech-API/blob/master/Screenshot.png" width="300" height="500"/>
 
 Special thanks to Mr.Frank Natividad from Google for really nice work on Cloud Speech API demo for Android. I have taken help from his implementation.  ( https://github.com/GoogleCloudPlatform ) and also
 Mr. Yang Hui for custom VoiceView (https://github.com/kyze8439690/AndroidVoiceAnimation)
