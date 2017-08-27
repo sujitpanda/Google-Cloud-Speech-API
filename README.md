@@ -12,5 +12,5 @@ First create a google cloud project in https://console.cloud.google.com/ and the
 You have to get your credential.json file from Cloud console (https://console.cloud.google.com/) and put it inside res/raw/credential.json to work.
 API & Services -> credential -> Create credential -> Service account key then download your credential.json from there.
 
-Special thanks to Mr. Yuichi Araki from Google for really nice work on Cloud Speech API demo for Android. I have taken help from his implementation.  ( https://github.com/GoogleCloudPlatform ) and also
+Special thanks to Mr.Frank Natividad from Google for really nice work on Cloud Speech API demo for Android. I have taken help from his implementation.  ( https://github.com/GoogleCloudPlatform ) and also
 Mr. Yang Hui for custom VoiceView (https://github.com/kyze8439690/AndroidVoiceAnimation)
